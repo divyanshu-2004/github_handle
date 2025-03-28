@@ -1,8 +1,5 @@
-# weather_project_main
-Here’s a **README.md** draft for your GitHub repo:  
-
 ```markdown
-# Project Name
+# weather_project_main
 
 A modern web application built using **HTML**, **CSS**, and **JavaScript (ES Modules)** to create a responsive and interactive user experience.
 
@@ -32,22 +29,22 @@ A modern web application built using **HTML**, **CSS**, and **JavaScript (ES Mod
 ## 🏃‍♂️ Getting Started
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/divyanshu-2004/weather_project_main.git
 ```
 
 2. **Navigate to the project folder**  
 ```bash
-cd your-repo-name
+cd weather_project_main
 ```
 
 3. **Install dependencies**  
 ```bash
-pnpm install
+npm install
 ```
 
 4. **Start the development server**  
 ```bash
-pnpm start
+npm start
 ```
 
 ## 📸 Preview
@@ -72,4 +69,3 @@ Feel free to open issues or submit pull requests. Let's make it better together!
 ✔️ Tech stack  
 ✔️ Contribution guidelines  
 
-Just replace **Project Name** and **your-username/your-repo-name** with the actual details! Let me know if you want to adjust anything. 😎
