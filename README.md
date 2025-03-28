@@ -17,8 +17,7 @@ A simple web app to check if a GitHub username exists.
 4. See if the username exists
 
 ## Try It Out
-
-[Live Demo](#) (coming soon)
+https://github-handle.vercel.app/
 
 ## For Developers
 
