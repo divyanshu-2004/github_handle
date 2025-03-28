@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(40, 44, 52);
+  margin: 0;
+  padding: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.app {
+  padding: 0;
+  margin: 0;
+}
+.heading {
+  text-align: center;
+  font-size: 70px;
+  color: white;
+  font-weight: 800;
+}
+
+.part2 {
+  text-align: center;
+}
+#input1 {
+  margin: 0;
+}
+#search {
+  margin: 0;
+}
+.card {
+  background-color: white;
+  width: 350px;
+  margin-top: 50px;
+  margin-left: 100px;
+  border-radius: 5px;
+}
+.avtar {
+  display: flex;
+}
+.avtar img {
+  border-radius: 10px;
+  width: 8vh;
+  margin: 5px 0 0 5px;
+}
+.names {
+  margin-left: 5px;
+  padding-top: 0;
+  gap: 5px;
+}
+.name {
+  margin: 5px 0 0 0;
+}
+.uname {
+  margin: 5px 0 0 0;
+}
+#collection {
+  display: flex;
+  flex-wrap: wrap;
+}
+.detail {
+  border-top: 1px solid #f0f0f0;
+  display: flex;
+  border-bottom: 1px solid #f0f0f0;
+}
+.detail p {
+  margin: 0;
+  font-weight: 0;
+  color: #333;
+}
+.row {
+  width: 20%;
+  border-right: 1px solid #f0f0f0;
+  margin-left: 20px;
+  height: 10vh;
+  padding-top: 10px;
+}
+.repos {
+  gap: 0;
+}
+
+.followers {
+  width: 60%;
+  margin-left: 20px;
+  padding-top: 10px;
+}
+.bio {
+  font-style: italic;
+  color: #c0c0c0;
+  padding: 5px;
+}
+.bio p {
+  margin-left: 10px;
+}

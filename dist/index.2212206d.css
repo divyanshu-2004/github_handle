@@ -1,0 +1,100 @@
+body {
+  background-color: #282c34;
+  margin: 0;
+  padding: 0;
+  font-family: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif;
+}
+
+.app {
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  text-align: center;
+  color: #fff;
+  font-size: 70px;
+  font-weight: 800;
+}
+
+.part2 {
+  text-align: center;
+}
+
+#input1, #search {
+  margin: 0;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 5px;
+  width: 350px;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+.avtar {
+  display: flex;
+}
+
+.avtar img {
+  border-radius: 10px;
+  width: 8vh;
+  margin: 5px 0 0 5px;
+}
+
+.names {
+  gap: 5px;
+  margin-left: 5px;
+  padding-top: 0;
+}
+
+.name, .uname {
+  margin: 5px 0 0;
+}
+
+#collection {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.detail {
+  border-top: 1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+  display: flex;
+}
+
+.detail p {
+  color: #333;
+  margin: 0;
+  font-weight: 0;
+}
+
+.row {
+  border-right: 1px solid #f0f0f0;
+  width: 20%;
+  height: 10vh;
+  margin-left: 20px;
+  padding-top: 10px;
+}
+
+.repos {
+  gap: 0;
+}
+
+.followers {
+  width: 60%;
+  margin-left: 20px;
+  padding-top: 10px;
+}
+
+.bio {
+  color: silver;
+  padding: 5px;
+  font-style: italic;
+}
+
+.bio p {
+  margin-left: 10px;
+}
+/*# sourceMappingURL=index.2212206d.css.map */
