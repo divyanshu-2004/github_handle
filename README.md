@@ -15,14 +15,14 @@ A modern web application built using **HTML**, **CSS**, and **JavaScript (ES Mod
 - **JavaScript (ESM)** – Dynamic functionality and modular structure  
 
 ## 📂 Project Structure
-```
+```plaintext
 ├── src
 │   ├── index.html      # Main HTML file
 │   ├── styles.css      # Styling file
 │   └── index.mjs       # JavaScript module
 ├── dist                # Production files
 ├── package.json        # Project metadata and dependencies
-├── pnpm-lock.yaml      # Package lock file for dependencies
+├── pnpm-lock.yaml      # Dependency lock file
 └── README.md           # Project documentation
 ```
 
