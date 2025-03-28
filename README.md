@@ -1,7 +1,4 @@
-Here’s a complete and polished **README.md** file for your GitHub repo:  
-
 ---
-
 ```markdown
 # 🌐 GitHub Account Finder
 
